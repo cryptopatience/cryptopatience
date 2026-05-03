@@ -43,4 +43,3 @@
 | Repository | Description |
 |------------|-------------|
 | [Main-code](https://github.com/cryptopatience/Main-code) | 메인 코드 |
-| [officetel](https://github.com/cryptopatience/officetel) | 오피스텔 분석 |
